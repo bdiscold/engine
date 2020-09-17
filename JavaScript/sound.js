@@ -6,7 +6,7 @@ bod.sound ={
   },
   stop : ()=>{
     song.stop()
-  }
+  },
   pause : ()=>{
     song.pause()
   }
